@@ -27,16 +27,6 @@ iNotebook is a secure and intuitive React-based note-taking web application that
 | Auth & API   | JWT, Bcrypt, Fetch API           |
 | Routing      | React Router DOM                 |
 
----
-
-## 📸 Screenshots
-
-| Login Page                          | Notes Dashboard                     |
-|------------------------------------|-------------------------------------|
-| ![Login](./screenshots/login.png)  | ![Dashboard](./screenshots/note.png) |
-
----
-
 ## 📂 Folder Structure
 
 ```
